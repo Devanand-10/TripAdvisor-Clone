@@ -13,8 +13,9 @@ Improved proficiency in writing semantic HTML.
 Gained experience with CSS for layout and styling (flexbox, grid, and media queries).
 Enhanced understanding of responsive web design principles.
 Practiced replicating complex layouts and designs from real-world websites.
-How to Run the Project:
-Click the link to view my project link[ ]
+
+## How to Run the Project:
+Click the link to view my project link[ https://devanand-10.github.io/TripAdvisor-Clone/]
 
 ## Challenges Faced:
 Aligning elements to achieve pixel-perfect design.
